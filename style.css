@@ -99,15 +99,7 @@ p{
 .clients{
     padding-top: 500px;
 }
-.column {
-    float: left;
-    width: 33.33%;
-    padding: 10px;
+.box{
+    width: 100%;
+    height: 60%;
 }
-  
-  /* Clear floats after image containers */
-  .row::after {
-    content: "";
-    clear: both;
-    display: table;
-  }
